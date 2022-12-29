@@ -31,7 +31,7 @@ Os utilizadores devem ser capazes de o fazer:
 ### Ligações
 
 - URL da solução: [Adicione aqui o URL da solução](https://your-solution-url.com)
-- URL do sítio em directo: [Adicione aqui o URL do sítio em directo](https://your-live-site-url.com)
+- URL do sítio em directo: [Adicione aqui o URL do sítio em directo](https://sirreinato.github.io/05-LoopStudios-Landing/)
 
 ## O meu processo
 
@@ -45,7 +45,7 @@ Os utilizadores devem ser capazes de o fazer:
 
 ## Autor
 
-- Website - [Renato](https://www.your-site.com)
-- Frontend Mentor - [@SirReinato](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@SirReinato](https://www.twitter.com/yourusername)
+- Website - [Renato](https://sirreinato.github.io/05-LoopStudios-Landing/)
+- Frontend Mentor - [@SirReinato](https://www.frontendmentor.io/profile/SirReinato)
+- Twitter - [@SirReinato](https://twitter.com/Sir_Reinato)
 
